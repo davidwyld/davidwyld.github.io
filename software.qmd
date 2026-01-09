@@ -1,0 +1,22 @@
+---
+title: software
+---
+
+Most of my software work is on GitHub: [here](https:/github.com/davidwyld){target="_blank"}
+
+Primarily I work in Python but have experience in Matlab, JavaScript and other languages.
+
+Below are some notable projects I'm particularly proud of:
+
+## PolarRoute-Server
+Part of the Autonomous Marine Operations Planning project at the British Antarctic Survey, [PolarRoute-server](https://github.com/bas-amop/PolarRoute-server){target="_blank"} provides a web API to allow services to request, interact with and obtain optimal shipping routes calculated using [PolarRoute](https://github.com/bas-amop/PolarRoute){target="_blank"}. It uses Django and Celery to manage the background processing of routes and handle job status for the API consumer. PolarRoute-server was build in collaboration with Thomas Zwagerman at the British Antarctic Survey. PolarRoute-server instances are currently running at the British Antarctic Survey in Cambridge as well as on board the RRS Sir David Attenborough within the Sea Ice Information Service.
+
+
+## GATE Teamware 2
+![](https://raw.githubusercontent.com/GateNLP/gate-teamware/refs/heads/master/frontend/public/static/img/gate-teamware-logo.svg)
+
+[**GitHub Repo**](https://github.com/GateNLP/gate-teamware){target="_blank"} | [**Conference Paper**](https://aclanthology.org/2023.eacl-demo.17/){target="_blank"}
+
+Built alongside Twin Karmakharm and Ian Roberts at the University of Sheffield, Teamware 2 is a flexible web application for managing teams of human annotators for gathering training data in machine learning natural language processing projects.
+
+Using Django as a backaned, Vue as a responsive frontend and docker/kubernetes for deployment, Teamware provides a modern web-based UI for coordinating the balanced annotation of text documents.

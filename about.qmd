@@ -1,0 +1,17 @@
+---
+title: about
+---
+
+As of 2022 I am a [Fellow of the Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby), with a particular interest in developing training and guidance for reproducible methods in Matlab.
+
+
+### background
+My background is in animal vision research using methods from computing and physical sciences. Primarily, my 
+research was in using numerical computational methods to explore the optics of three-dimensional visual 
+anatomy. During my PhD  at the University of Bristol I developed FDTD simulations for studying the optics 
+of avian retinal photoreceptors. Following this I worked on ray tracing analyses of 3D ocelli and compound eye 
+volumes of bumblebees and hoverflies with Stockholm and Lund University. More recently I spent 4 years as an RSE at the University of Sheffield's RSE team.
+
+However, I've had an eclectic career including (but not limited to): startling hermit crabs in behavioural 
+experiments; training chickens to study their colour vision; diving for mantis shrimp to study their secret 
+polarized signals; and doing R&D on TeraHertz electronics for space science.
