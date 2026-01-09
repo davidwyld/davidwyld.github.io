@@ -1,0 +1,14 @@
+---
+title: "#30daymapchallenge - day 2 - lines"
+date: 2025-11-04
+date-modified: last-modified
+lightbox: true
+categories:
+    - mapping
+    - gis
+    - 30daymapchallenge
+---
+
+![Click to englarge](../assets/images/blog/30daymapchallenge/day02_Canada_Ice_roads.png "Mapped winter road connections to remote First Nations communities in Canada 2022-2023")
+
+Ran out of time on this one a bit. For the lines theme, I delved into the Polar Data Centre categories on human movement.

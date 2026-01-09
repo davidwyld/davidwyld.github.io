@@ -1,0 +1,20 @@
+---
+title: "#30daymapchallenge - day 1 - points"
+date: 2025-11-04
+date-modified: last-modified
+lightbox: true
+categories:
+    - mapping
+    - gis
+    - 30daymapchallenge
+---
+
+The 30 days of the challenge are themed by the organiser. Day 1's theme is *points*.
+
+![](../assets/images/blog/30daymapchallenge/day01_AntarcticHistoricalLocations.png "Simple map of antarctica with historic sites marked.")
+
+Made as fast as possible to catch up whilst beginning on the fourth day of the challenge using QGIS. I was happy to have plotted anything at all!
+
+Data: [Locations of Antarctic historic sites and monuments from the Polar Data Centre](https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01431) https://doi.org/10.5285/7a6fddc4-291c-4673-af87-0a040616e812
+
+Backed by coastline from: https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01391 https://doi.org/10.5285/065B9ABC-1B5A-4FC6-AA57-9052428AA6CA

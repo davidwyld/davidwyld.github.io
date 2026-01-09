@@ -1,0 +1,11 @@
+---
+title: "blog"
+listing:
+    contents: posts
+    sort: 
+        - "date desc"
+        - "date-modified desc"
+    categories: true
+    date-format: iso
+    feed: true
+---

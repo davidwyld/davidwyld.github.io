@@ -1,0 +1,23 @@
+---
+title: 'publications'
+date-format: 'MMMM,<br>YYYY'
+listing:
+  contents:
+    - publications.yml
+  id: publications-listing
+  page-size: 20
+  sort: 'issued desc'
+  type: table
+  categories: false
+  sort-ui: [issued, title, journal]
+  filter-ui: [issued, title, journal]
+  fields: [issued, title, journal, author]
+  field-display-names:
+    author: "Authors"
+    issued: "Published"
+    journal: "Journal"
+    year: "Year"
+---
+
+:::{#publications-listing}
+:::

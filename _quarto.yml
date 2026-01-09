@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "davidwyld"
+  site-url: "https://davidwyld.uk"
+  navbar:
+    left:
+      - links.qmd
+      - publications.qmd
+      - blog.qmd
+  search: 
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: solar
+    respect-user-color-scheme: true
+    css: styles.css
+    toc: true
+
+
+

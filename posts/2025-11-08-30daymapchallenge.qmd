@@ -1,0 +1,29 @@
+---
+title: "#30daymapchallenge - a spontaneous odyssey into mapping"
+date: 2025-11-04
+date-modified: last-modified
+categories:
+    - mapping
+    - gis
+    - 30daymapchallenge
+---
+
+A few days into November, I became aware of the [30 day map challenge](https://30daymapchallenge.com/) which has run every November since 2019
+thanks to [Topi Tjukanov](https://tjukanov.org/).
+
+I've had a passing interest in digital mapping for a while as well as the (I assume?) standard fondness for maps of all kinds and have learned a little
+since working at the British Antarctic Survey as a Research Software Engineer. So naturally I dived into an intensive month of making myself learn a new skill every day.
+
+The only way for this to work, especially with a <2 month old baby at home, was to establish some rules for myself.
+
+## Rules
+1. Work fast.
+2. Have low standards.
+3. Have fun.
+4. Work mainly on polar data.
+
+Rules 1-3 are for my survival, I have precious little time like most people and taking more than an hour a day, expecting too much of myself, or not enjoying it would make it unsustainable.
+
+Rule 4 is to help with the others, by narrowing down the potential datasets I could save time, but also learn more about the organisation I've worked at for over a year and a half.
+
+What's the worst that can happen!
