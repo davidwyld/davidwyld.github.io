@@ -1,6 +1,6 @@
 ---
 title: "#30daymapchallenge - a spontaneous odyssey into mapping"
-date: 2025-11-04
+date: 2025-10-31
 date-modified: last-modified
 categories:
     - mapping
