@@ -267,9 +267,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <span class="nav-link">
-<span class="menu-text">links.qmd</span>
-    </span>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">about</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./software.html" aria-current="page"> 
+<span class="menu-text">software</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./links.html"> 
+<span class="menu-text">links</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
@@ -291,18 +298,55 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#polarroute-server" id="toc-polarroute-server" class="nav-link active" data-scroll-target="#polarroute-server">PolarRoute-Server</a></li>
+  <li><a href="#gate-teamware-2" id="toc-gate-teamware-2" class="nav-link" data-scroll-target="#gate-teamware-2">GATE Teamware 2</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">software</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
 
+<p>Most of my software work is on GitHub: <a href="https:/github.com/davidwyld" target="_blank">here</a></p>
+<p>Primarily I work in Python but have experience in Matlab, JavaScript and other languages.</p>
+<p>Below are some notable projects I’m particularly proud of:</p>
+<section id="polarroute-server" class="level2">
+<h2 class="anchored" data-anchor-id="polarroute-server">PolarRoute-Server</h2>
+<p>Part of the Autonomous Marine Operations Planning project at the British Antarctic Survey, <a href="https://github.com/bas-amop/PolarRoute-server" target="_blank">PolarRoute-server</a> provides a web API to allow services to request, interact with and obtain optimal shipping routes calculated using <a href="https://github.com/bas-amop/PolarRoute" target="_blank">PolarRoute</a>. It uses Django and Celery to manage the background processing of routes and handle job status for the API consumer. PolarRoute-server was build in collaboration with Thomas Zwagerman at the British Antarctic Survey. PolarRoute-server instances are currently running at the British Antarctic Survey in Cambridge as well as on board the RRS Sir David Attenborough within the Sea Ice Information Service.</p>
+</section>
+<section id="gate-teamware-2" class="level2">
+<h2 class="anchored" data-anchor-id="gate-teamware-2">GATE Teamware 2</h2>
+<p><img src="https://raw.githubusercontent.com/GateNLP/gate-teamware/refs/heads/master/frontend/public/static/img/gate-teamware-logo.svg" class="img-fluid"></p>
+<p><a href="https://github.com/GateNLP/gate-teamware" target="_blank"><strong>GitHub Repo</strong></a> | <a href="https://aclanthology.org/2023.eacl-demo.17/" target="_blank"><strong>Conference Paper</strong></a></p>
+<p>Built alongside Twin Karmakharm and Ian Roberts at the University of Sheffield, Teamware 2 is a flexible web application for managing teams of human annotators for gathering training data in machine learning natural language processing projects.</p>
+<p>Using Django as a backaned, Vue as a responsive frontend and docker/kubernetes for deployment, Teamware provides a modern web-based UI for coordinating the balanced annotation of text documents.</p>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

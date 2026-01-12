@@ -1,38 +1,38 @@
 [
   {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "links",
+    "section": "",
+    "text": "me elsewhere online\n\nSoftware Sustainability Institute\nGoogle Scholar\nMy GitHub Profile\nMastodon\n\n\n\nresources\n\nResearch Software Methods Lecture for Undergrads - video\nGit & GitHub through GitKraken - Zero to Hero - course developed by @annakrystalli\n\n\n\nblogs\n\nReproducible MATLAB Blog\n\nA concise guide to reproducible MATLAB projects (also published on the Software Sustainability Institute and RSE Sheffield blogs)\nCan MATLAB projects ever be reproducible?\nReproducible MATLAB: what do the people want?\n\nRSE Sheffield Blog\n\nDemonstrating Importance and Value in Research Software\nSoftware best practice: what can it do for me/my research?\nWriting better and more shareable code\nHandy tools for git(s)\n\n\n\n\ntalks\n\nFAIR Research Software - Open Research Conversations x LunchBytes, University of Sheffield, 2023. [Slides, Repo, Video]\nMaking MATLAB projects reproducible and shareable - OpenFest, University of Sheffield, 2022. [Slides, Repo, Video]\nGuest lecture for Computer Science Undergrads on RSE Methods, 2021-23. [Slides, Previous versions]"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "dr david wyld",
     "section": "",
-    "text": "Hi! I am David Wyld (formerly Wilby), a Senior Research Software Engineer at the British Antarctic Survey. My interest is in facilitating the best possible practice in research computing, from good training to advocating reproducible scientific software methods.\n\nAs of 2022 I am a Fellow of the Software Sustainability Institute, with a particular interest in developing training and guidance for reproducible methods in Matlab.\n\nbackground\nMy background is in animal vision research using methods from computing and physical sciences. Primarily, my research was in using numerical computational methods to explore the optics of three-dimensional visual anatomy. During my PhD at the University of Bristol I developed FDTD simulations for studying the optics of avian retinal photoreceptors. Following this I worked on ray tracing analyses of 3D ocelli and compound eye volumes of bumblebees and hoverflies with Stockholm and Lund University. More recently I spent 4 years as an RSE at the University of Sheffield’s RSE team.\nHowever, I’ve had an eclectic career including (but not limited to): startling hermit crabs in behavioural experiments; training chickens to study their colour vision; diving for mantis shrimp to study their secret polarized signals; and doing R&D on TeraHertz electronics for space science."
+    "text": "Hi! I am David Wyld (formerly Wilby), a Senior Research Software Engineer at the British Antarctic Survey. My professional interests are in facilitating the best possible practice in research computing, from good training to advocating reproducible scientific software methods and building high quality research software projects. I’m also interested in bicycles, woodworking, adventure racing to name a few things.\n\nOn this site you’ll find a personal blog, some of the software I’ve worked on and other information about me and my work and interests."
   },
   {
-    "objectID": "posts/2025-11-08-30daymapchallenge.html",
-    "href": "posts/2025-11-08-30daymapchallenge.html",
-    "title": "#30daymapchallenge - a spontaneous odyssey into mapping",
+    "objectID": "posts/2025-11-02-30daymapchallenge-day02-lines.html",
+    "href": "posts/2025-11-02-30daymapchallenge-day02-lines.html",
+    "title": "#30daymapchallenge - day 2 - lines",
     "section": "",
-    "text": "A few days into November, I became aware of the 30 day map challenge which has run every November since 2019 thanks to Topi Tjukanov.\nI’ve had a passing interest in digital mapping for a while as well as the (I assume?) standard fondness for maps of all kinds and have learned a little since working at the British Antarctic Survey as a Research Software Engineer. So naturally I dived into an intensive month of making myself learn a new skill every day.\nThe only way for this to work, especially with a &lt;2 month old baby at home, was to establish some rules for myself."
-  },
-  {
-    "objectID": "posts/2025-11-08-30daymapchallenge.html#rules",
-    "href": "posts/2025-11-08-30daymapchallenge.html#rules",
-    "title": "#30daymapchallenge - a spontaneous odyssey into mapping",
-    "section": "Rules",
-    "text": "Rules\n\nWork fast.\nHave low standards.\nHave fun.\nWork mainly on polar data.\n\nRules 1-3 are for my survival, I have precious little time like most people and taking more than an hour a day, expecting too much of myself, or not enjoying it would make it unsustainable.\nRule 4 is to help with the others, by narrowing down the potential datasets I could save time, but also learn more about the organisation I’ve worked at for over a year and a half.\nWhat’s the worst that can happen!"
+    "text": "Click to englarge\n\n\nRan out of time on this one a bit. For the lines theme, I delved into the Polar Data Centre categories on human movement."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "blog",
     "section": "",
-    "text": "30daymapchallenge - day 2 - lines\n\n\n\nmapping\n\ngis\n\n30daymapchallenge\n\n\n\n\n\n\n\n\n\n2025-11-04\n\n\n\n\n\n\n\n\n\n\n\n\n30daymapchallenge - a spontaneous odyssey into mapping\n\n\n\nmapping\n\ngis\n\n30daymapchallenge\n\n\n\n\n\n\n\n\n\n2025-11-04\n\n\n\n\n\n\n\n\n\n\n\n\n30daymapchallenge - day 1 - points\n\n\n\nmapping\n\ngis\n\n30daymapchallenge\n\n\n\n\n\n\n\n\n\n2025-11-04\n\n\n\n\n\nNo matching items"
+    "text": "30daymapchallenge - day 2 - lines\n\n\n\nmapping\n\ngis\n\n30daymapchallenge\n\n\n\n\n\n\n\n\n\n2025-11-02\n\n\n\n\n\n\n\n\n\n\n\n\n30daymapchallenge - day 1 - points\n\n\n\nmapping\n\ngis\n\n30daymapchallenge\n\n\n\n\n\n\n\n\n\n2025-11-01\n\n\n\n\n\n\n\n\n\n\n\n\n30daymapchallenge - a spontaneous odyssey into mapping\n\n\n\nmapping\n\ngis\n\n30daymapchallenge\n\n\n\n\n\n\n\n\n\n2025-10-31\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "links",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
     "section": "",
-    "text": "me elsewhere online\n\nSoftware Sustainability Institute\nGoogle Scholar\nMy GitHub Profile\nMastodon\n\n\n\nresources\n\nResearch Software Methods Lecture for Undergrads - video\nGit & GitHub through GitKraken - Zero to Hero - course developed by @annakrystalli\n\n\n\nblogs\n\nReproducible MATLAB Blog\n\nA concise guide to reproducible MATLAB projects (also published on the Software Sustainability Institute and RSE Sheffield blogs)\nCan MATLAB projects ever be reproducible?\nReproducible MATLAB: what do the people want?\n\nRSE Sheffield Blog\n\nDemonstrating Importance and Value in Research Software\nSoftware best practice: what can it do for me/my research?\nWriting better and more shareable code\nHandy tools for git(s)\n\n\n\n\ntalks\n\nFAIR Research Software - Open Research Conversations x LunchBytes, University of Sheffield, 2023. [Slides, Repo, Video]\nMaking MATLAB projects reproducible and shareable - OpenFest, University of Sheffield, 2022. [Slides, Repo, Video]\nGuest lecture for Computer Science Undergrads on RSE Methods, 2021-23. [Slides, Previous versions]"
+    "text": "As of 2022 I am a Fellow of the Software Sustainability Institute, with a particular interest in developing training and guidance for reproducible methods in Matlab.\n\nbackground\nMy background is in animal vision research using methods from computing and physical sciences. Primarily, my research was in using numerical computational methods to explore the optics of three-dimensional visual anatomy. During my PhD at the University of Bristol I developed FDTD simulations for studying the optics of avian retinal photoreceptors. Following this I worked on ray tracing analyses of 3D ocelli and compound eye volumes of bumblebees and hoverflies with Stockholm and Lund University. More recently I spent 4 years as an RSE at the University of Sheffield’s RSE team.\nHowever, I’ve had an eclectic career including (but not limited to): startling hermit crabs in behavioural experiments; training chickens to study their colour vision; diving for mantis shrimp to study their secret polarized signals; and doing R&D on TeraHertz electronics for space science."
   },
   {
     "objectID": "publications.html",
@@ -42,17 +42,45 @@
     "text": "Order By\n      Default\n      \n        Published\n      \n      \n        Title\n      \n      \n        Journal\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nPublished\n\n\n\nTitle\n\n\n\nJournal\n\n\n\nAuthors\n\n\n\n\n\n\n\n\n2023-05\n\n\nGATE Teamware 2: An open-source tool for collaborative document classification annotation\n\n\nProceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations\n\n\nDavid Wilby, Twin Karmakharm, Ian Roberts, Xingyi Song, Kalina Bontcheva\n\n\n\n\n\n\n2023-04\n\n\nPolarization vision in terrestrial hermit crabs\n\n\nJournal of Comparative Physiology A\n\n\nMartin J. How, Alasdair Robertson, Samuel P. Smithers, David Wilby\n\n\n\n\n\n\n2019-09\n\n\nLong-Wavelength Reflecting Filters Found in the Larval Retinas of One Mantis Shrimp Family (Nannosquillidae)\n\n\nCurrent Biology\n\n\nKathryn D. Feller, David Wilby, Gianni Jacucci, Silvia Vignolini, Judith Mantell, Trevor J. Wardill, Thomas W. Cronin, Nicholas W. Roberts\n\n\n\n\n\n\n2019-05\n\n\nUsing micro-CT techniques to explore the role of sex and hair in the functional morphology of bumblebee (Bombus terrestris) ocelli\n\n\nVision Research\n\n\nDavid Wilby, Tobio Aarts, Pierre Tichit, Andrew Bodey, Christoph Rau, Gavin Taylor, Emily Baird\n\n\n\n\n\n\n2018-03\n\n\nPolarisation vision: Overcoming challenges of working with a property of light we barely see\n\n\nThe Science of Nature\n\n\nJames J. Foster, Shelby E. Temple, Martin J. How, Ilse M. Daly, Camilla R. Sharkey, David Wilby, Nicholas W. Roberts\n\n\n\n\n\n\n2017-07\n\n\nSelection of the intrinsic polarization properties of animal optical materials creates enhanced structural reflectivity and camouflage\n\n\nPhilosophical Transactions of the Royal Society B: Biological Sciences\n\n\nKathryn D. Feller, Thomas M. Jordan, David Wilby, Nicholas W. Roberts\n\n\n\n\n\n\n2017-06\n\n\nOptical influence of oil droplets on cone photoreceptor sensitivity\n\n\nJournal of Experimental Biology\n\n\nDavid Wilby, Nicholas W. Roberts\n\n\n\n\n\n\n2017-01\n\n\nSpatial summation improves bird color vision in low light intensities\n\n\nVision Research\n\n\nPeter Olsson, David Wilby, Almut Kelber\n\n\n\n\n\n\n2016-09\n\n\nLosing focus: How lens position and viewing angle affect the function of multifocal lenses in fishes\n\n\nJOSA A\n\n\nYakir Luc Gagnon, David Wilby, Shelby Eric Temple\n\n\n\n\n\n\n2016-07\n\n\nComplementary shifts in photoreceptor spectral tuning unlock the full adaptive potential of ultraviolet vision in birds\n\n\neLife\n\n\nMatthew B Toomey, Olle Lind, Rikard Frederiksen, Robert W Curley, Ken M Riedl, David Wilby, Steven J Schwartz, Christopher C Witt, Earl H Harrison, Nicholas W Roberts, Misha Vorobyev, Kevin J McGraw, M Carter Cornwall, Almut Kelber, Joseph C Corbo\n\n\n\n\n\n\n2016-05\n\n\nQuantitative studies of animal colour constancy: Using the chicken as model\n\n\nProceedings of the Royal Society B: Biological Sciences\n\n\nPeter Olsson, David Wilby, Almut Kelber\n\n\n\n\n\n\n2016-02\n\n\nA shape-anisotropic reflective polarizer in a stomatopod crustacean\n\n\nScientific Reports\n\n\nThomas M. Jordan, David Wilby, Tsyr-Huei Chiou, Kathryn D. Feller, Roy L. Caldwell, Thomas W. Cronin, Nicholas W. Roberts\n\n\n\n\n\n\n2015-10\n\n\nOptics of cone photoreceptors in the chicken (Gallus gallus domesticus)\n\n\nJournal of The Royal Society Interface\n\n\nDavid Wilby, Matthew B. Toomey, Peter Olsson, Rikard Frederiksen, M. Carter Cornwall, Ruth Oulton, Almut Kelber, Joseph C. Corbo, Nicholas W. Roberts\n\n\n\n\n\n\n2015-02\n\n\nOptics and Photoreception in the Avian Retina\n\n\n \n\n\nDavid Wilby\n\n\n\n\n\n\n2009\n\n\nA frequency doubler to 170 GHz using Schottky diodes transferred to a quartz substrate with a power conversion efficiency of 29%\n\n\n5th ESA Workshop on Millimetre Wave Technology and Applications, ESA/ESTEC, Noordwijk, The Netherlands\n\n\nB. Alderman, M. Henry, H. Sanghera, D. Wilby, D. N. Matheson\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2025-11-08-30daymapchallenge-day02-lines.html",
-    "href": "posts/2025-11-08-30daymapchallenge-day02-lines.html",
-    "title": "#30daymapchallenge - day 2 - lines",
-    "section": "",
-    "text": "Click to englarge\n\n\nRan out of time on this one a bit. For the lines theme, I delved into the Polar Data Centre categories on human movement."
-  },
-  {
-    "objectID": "posts/2025-11-08-30daymapchallenge-day01-points.html",
-    "href": "posts/2025-11-08-30daymapchallenge-day01-points.html",
+    "objectID": "posts/2025-11-01-30daymapchallenge-day01-points.html",
+    "href": "posts/2025-11-01-30daymapchallenge-day01-points.html",
     "title": "#30daymapchallenge - day 1 - points",
     "section": "",
     "text": "The 30 days of the challenge are themed by the organiser. Day 1’s theme is points.\n\nMade as fast as possible to catch up whilst beginning on the fourth day of the challenge using QGIS. I was happy to have plotted anything at all!\nData: Locations of Antarctic historic sites and monuments from the Polar Data Centre https://doi.org/10.5285/7a6fddc4-291c-4673-af87-0a040616e812\nBacked by coastline from: https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01391 https://doi.org/10.5285/065B9ABC-1B5A-4FC6-AA57-9052428AA6CA"
+  },
+  {
+    "objectID": "posts/2025-10-31-30daymapchallenge.html",
+    "href": "posts/2025-10-31-30daymapchallenge.html",
+    "title": "#30daymapchallenge - a spontaneous odyssey into mapping",
+    "section": "",
+    "text": "A few days into November, I became aware of the 30 day map challenge which has run every November since 2019 thanks to Topi Tjukanov.\nI’ve had a passing interest in digital mapping for a while as well as the (I assume?) standard fondness for maps of all kinds and have learned a little since working at the British Antarctic Survey as a Research Software Engineer. So naturally I dived into an intensive month of making myself learn a new skill every day.\nThe only way for this to work, especially with a &lt;2 month old baby at home, was to establish some rules for myself."
+  },
+  {
+    "objectID": "posts/2025-10-31-30daymapchallenge.html#rules",
+    "href": "posts/2025-10-31-30daymapchallenge.html#rules",
+    "title": "#30daymapchallenge - a spontaneous odyssey into mapping",
+    "section": "Rules",
+    "text": "Rules\n\nWork fast.\nHave low standards.\nHave fun.\nWork mainly on polar data.\n\nRules 1-3 are for my survival, I have precious little time like most people and taking more than an hour a day, expecting too much of myself, or not enjoying it would make it unsustainable.\nRule 4 is to help with the others, by narrowing down the potential datasets I could save time, but also learn more about the organisation I’ve worked at for over a year and a half.\nWhat’s the worst that can happen!"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "software",
+    "section": "",
+    "text": "Most of my software work is on GitHub: here\nPrimarily I work in Python but have experience in Matlab, JavaScript and other languages.\nBelow are some notable projects I’m particularly proud of:"
+  },
+  {
+    "objectID": "software.html#polarroute-server",
+    "href": "software.html#polarroute-server",
+    "title": "software",
+    "section": "PolarRoute-Server",
+    "text": "PolarRoute-Server\nPart of the Autonomous Marine Operations Planning project at the British Antarctic Survey, PolarRoute-server provides a web API to allow services to request, interact with and obtain optimal shipping routes calculated using PolarRoute. It uses Django and Celery to manage the background processing of routes and handle job status for the API consumer. PolarRoute-server was build in collaboration with Thomas Zwagerman at the British Antarctic Survey. PolarRoute-server instances are currently running at the British Antarctic Survey in Cambridge as well as on board the RRS Sir David Attenborough within the Sea Ice Information Service."
+  },
+  {
+    "objectID": "software.html#gate-teamware-2",
+    "href": "software.html#gate-teamware-2",
+    "title": "software",
+    "section": "GATE Teamware 2",
+    "text": "GATE Teamware 2\n\nGitHub Repo | Conference Paper\nBuilt alongside Twin Karmakharm and Ian Roberts at the University of Sheffield, Teamware 2 is a flexible web application for managing teams of human annotators for gathering training data in machine learning natural language processing projects.\nUsing Django as a backaned, Vue as a responsive frontend and docker/kubernetes for deployment, Teamware provides a modern web-based UI for coordinating the balanced annotation of text documents."
   }
 ]

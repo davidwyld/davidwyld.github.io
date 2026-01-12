@@ -10,10 +10,10 @@
 <atom:link href="https://davidwyld.uk/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 04 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>#30daymapchallenge - day 2 - lines</title>
-  <link>https://davidwyld.uk/posts/2025-11-08-30daymapchallenge-day02-lines.html</link>
+  <link>https://davidwyld.uk/posts/2025-11-02-30daymapchallenge-day02-lines.html</link>
   <description><![CDATA[ 
 
 
@@ -34,12 +34,36 @@
   <category>mapping</category>
   <category>gis</category>
   <category>30daymapchallenge</category>
-  <guid>https://davidwyld.uk/posts/2025-11-08-30daymapchallenge-day02-lines.html</guid>
-  <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+  <guid>https://davidwyld.uk/posts/2025-11-02-30daymapchallenge-day02-lines.html</guid>
+  <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>#30daymapchallenge - day 1 - points</title>
+  <link>https://davidwyld.uk/posts/2025-11-01-30daymapchallenge-day01-points.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The 30 days of the challenge are themed by the organiser. Day 1’s theme is <em>points</em>.</p>
+<p><a href="../assets/images/blog/30daymapchallenge/day01_AntarcticHistoricalLocations.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://davidwyld.uk/assets/images/blog/30daymapchallenge/day01_AntarcticHistoricalLocations.png" title="Simple map of antarctica with historic sites marked." class="img-fluid"></a></p>
+<p>Made as fast as possible to catch up whilst beginning on the fourth day of the challenge using QGIS. I was happy to have plotted anything at all!</p>
+<p>Data: <a href="https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01431">Locations of Antarctic historic sites and monuments from the Polar Data Centre</a> https://doi.org/10.5285/7a6fddc4-291c-4673-af87-0a040616e812</p>
+<p>Backed by coastline from: <a href="https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01391" class="uri">https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01391</a> <a href="https://doi.org/10.5285/065B9ABC-1B5A-4FC6-AA57-9052428AA6CA" class="uri">https://doi.org/10.5285/065B9ABC-1B5A-4FC6-AA57-9052428AA6CA</a></p>
+
+
+
+ ]]></description>
+  <category>mapping</category>
+  <category>gis</category>
+  <category>30daymapchallenge</category>
+  <guid>https://davidwyld.uk/posts/2025-11-01-30daymapchallenge-day01-points.html</guid>
+  <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>#30daymapchallenge - a spontaneous odyssey into mapping</title>
-  <link>https://davidwyld.uk/posts/2025-11-08-30daymapchallenge.html</link>
+  <link>https://davidwyld.uk/posts/2025-10-31-30daymapchallenge.html</link>
   <description><![CDATA[ 
 
 
@@ -68,32 +92,8 @@
   <category>mapping</category>
   <category>gis</category>
   <category>30daymapchallenge</category>
-  <guid>https://davidwyld.uk/posts/2025-11-08-30daymapchallenge.html</guid>
-  <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>#30daymapchallenge - day 1 - points</title>
-  <link>https://davidwyld.uk/posts/2025-11-08-30daymapchallenge-day01-points.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The 30 days of the challenge are themed by the organiser. Day 1’s theme is <em>points</em>.</p>
-<p><a href="../assets/images/blog/30daymapchallenge/day01_AntarcticHistoricalLocations.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://davidwyld.uk/assets/images/blog/30daymapchallenge/day01_AntarcticHistoricalLocations.png" title="Simple map of antarctica with historic sites marked." class="img-fluid"></a></p>
-<p>Made as fast as possible to catch up whilst beginning on the fourth day of the challenge using QGIS. I was happy to have plotted anything at all!</p>
-<p>Data: <a href="https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01431">Locations of Antarctic historic sites and monuments from the Polar Data Centre</a> https://doi.org/10.5285/7a6fddc4-291c-4673-af87-0a040616e812</p>
-<p>Backed by coastline from: https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01391 https://doi.org/10.5285/065B9ABC-1B5A-4FC6-AA57-9052428AA6CA</p>
-
-
-
- ]]></description>
-  <category>mapping</category>
-  <category>gis</category>
-  <category>30daymapchallenge</category>
-  <guid>https://davidwyld.uk/posts/2025-11-08-30daymapchallenge-day01-points.html</guid>
-  <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+  <guid>https://davidwyld.uk/posts/2025-10-31-30daymapchallenge.html</guid>
+  <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
