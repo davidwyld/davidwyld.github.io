@@ -7,7 +7,7 @@ title: "links"
 * [Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby)
 * [Google Scholar](https://scholar.google.com/citations?user=4kAyVwMAAAAJ)
 * [My GitHub Profile](https://github.com/davidwyld)
-* <a rel="me" href="https://fosstodon.org/@davidwilby">Mastodon</a>
+* <a rel="me" href="https://mastodon.green/@davidwyld">Mastodon</a>
 
 # resources
 * [Research Software Methods Lecture for Undergrads](https://github.com/davidwyld/ResearchSoftwareMethods) - [*video*](https://rse.shef.ac.uk/blog/2021-05-25-methods-ug-talk/)
