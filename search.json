@@ -77,6 +77,13 @@
     "text": "PolarRoute-Server\nPart of the Autonomous Marine Operations Planning project at the British Antarctic Survey, PolarRoute-server provides a web API to allow services to request, interact with and obtain optimal shipping routes calculated using PolarRoute. It uses Django and Celery to manage the background processing of routes and handle job status for the API consumer. PolarRoute-server was build in collaboration with Thomas Zwagerman at the British Antarctic Survey. PolarRoute-server instances are currently running at the British Antarctic Survey in Cambridge as well as on board the RRS Sir David Attenborough within the Sea Ice Information Service."
   },
   {
+    "objectID": "software.html#asli",
+    "href": "software.html#asli",
+    "title": "software",
+    "section": "asli",
+    "text": "asli\nasli is a python package for calculating a time series of data relating to the Amundsen Sea Low - a low pressure anomaly in the Amundsen Sea off the coast of West Antarctica. It is a generlalisable tool which will work to derive similar anomalies, mainly intended to work with ERA5 data but will work with most gridded datasets that can be read by xarray. I wrote the package in collaboration with Thomas Zwagerman built on code and research by Scott Hosking to facilitate reproducible computation of the Amundsen Sea Low Index, updating a monthly dataset using asli-pipeline."
+  },
+  {
     "objectID": "software.html#gate-teamware-2",
     "href": "software.html#gate-teamware-2",
     "title": "software",
