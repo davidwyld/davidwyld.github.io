@@ -2,7 +2,7 @@
 title: software
 ---
 
-Most of my software work is on GitHub: [here](https:/github.com/davidwyld){target="_blank"}
+Most of my software work is on GitHub: [here](https://github.com/davidwyld){target="_blank"}
 
 Primarily I work in Python but have experience in Matlab, JavaScript and other languages.
 
@@ -19,4 +19,4 @@ Part of the Autonomous Marine Operations Planning project at the British Antarct
 
 Built alongside Twin Karmakharm and Ian Roberts at the University of Sheffield, Teamware 2 is a flexible web application for managing teams of human annotators for gathering training data in machine learning natural language processing projects.
 
-Using Django as a backaned, Vue as a responsive frontend and docker/kubernetes for deployment, Teamware provides a modern web-based UI for coordinating the balanced annotation of text documents.
+Using Django as a backend, Vue as a responsive frontend and docker/kubernetes for deployment, Teamware provides a modern web-based UI for coordinating the balanced annotation of text documents.
