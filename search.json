@@ -88,6 +88,6 @@
     "href": "software.html#gate-teamware-2",
     "title": "software",
     "section": "GATE Teamware 2",
-    "text": "GATE Teamware 2\n\nGitHub Repo | Conference Paper\nBuilt alongside Twin Karmakharm and Ian Roberts at the University of Sheffield, Teamware 2 is a flexible web application for managing teams of human annotators for gathering training data in machine learning natural language processing projects.\nUsing Django as a backaned, Vue as a responsive frontend and docker/kubernetes for deployment, Teamware provides a modern web-based UI for coordinating the balanced annotation of text documents."
+    "text": "GATE Teamware 2\n\nGitHub Repo | Conference Paper\nBuilt alongside Twin Karmakharm and Ian Roberts at the University of Sheffield, Teamware 2 is a flexible web application for managing teams of human annotators for gathering training data in machine learning natural language processing projects.\nUsing Django as a backend, Vue as a responsive frontend and docker/kubernetes for deployment, Teamware provides a modern web-based UI for coordinating the balanced annotation of text documents."
   }
 ]
