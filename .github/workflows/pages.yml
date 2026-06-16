@@ -1,0 +1,26 @@
+name: build to github pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo 🛎️
+        uses: actions/checkout@v6
+   
+      - name: Set up Quarto 🔧
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Quarto Project 🖌️
+        uses: quarto-dev/quarto-actions/render@v2
+      
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
+          clean: true
