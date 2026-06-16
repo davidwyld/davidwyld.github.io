@@ -23,6 +23,9 @@ format:
     respect-user-color-scheme: true
     css: styles.css
     toc: true
+    include-in-header:
+      - text: |
+          <link rel="me" href="https://mastodon.green/@davidwyld">
 
 
 
