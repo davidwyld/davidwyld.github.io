@@ -2,7 +2,7 @@
 title: about
 ---
 
-As of 2022 I am a [Fellow of the Institute of Research Software](https://www.software.ac.uk/fellowship-programme/david-wyld), with a particular interest in developing training and guidance for reproducible methods in Matlab.
+I am a [Fellow of the Institute for Research Software](https://www.software.ac.uk/fellowship-programme/david-wyld), with a particular interest in developing training and guidance for reproducible methods in Matlab.
 
 
 ### background
