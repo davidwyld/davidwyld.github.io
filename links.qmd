@@ -4,7 +4,7 @@ title: "links"
 
 
 # me elsewhere online
-* [Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby)
+* [Institute of Research Software](https://www.software.ac.uk/fellowship-programme/david-wyld)
 * [Google Scholar](https://scholar.google.com/citations?user=4kAyVwMAAAAJ)
 * [My GitHub Profile](https://github.com/davidwyld)
 * <a rel="me" href="https://mastodon.green/@davidwyld">Mastodon</a>
